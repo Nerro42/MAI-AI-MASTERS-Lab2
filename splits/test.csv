@@ -1,0 +1,483 @@
+path,breed,species,pretty,folder,breed_id,species_id
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_11.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_144.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_134.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_101.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_190.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_145.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_115.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_113.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_168.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_160.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_136.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_108.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_103.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_179.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_118.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_146.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_128.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_103.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_171.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_113.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_174.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_187.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_159.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_141.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_160.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_148.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_147.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_182.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_10.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_102.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_121.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_131.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_137.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_132.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_158.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_199.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_197.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_196.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_115.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_120.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_10.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_185.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_130.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_159.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_187.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_125.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_114.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_132.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_126.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_175.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_107.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_135.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_17.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_128.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_112.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_106.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_144.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_179.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_184.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_149.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_183.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_184.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_165.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_109.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_103.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_116.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_113.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_104.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_110.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_102.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_109.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_121.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_180.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_160.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_190.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_182.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_185.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_187.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_170.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_171.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_130.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_144.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_121.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_13.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_145.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_138.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_139.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_179.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_104.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_137.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_189.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_198.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_138.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_16.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_133.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_189.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_161.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_100.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_130.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_186.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_113.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_158.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_167.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_134.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_153.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_159.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_135.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_195.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_138.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_18.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_16.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_179.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_110.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_143.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_135.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_141.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_151.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_179.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_110.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_102.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_152.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_14.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_181.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_109.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_122.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_173.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_107.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_173.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_151.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_173.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_127.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_103.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_123.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_164.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_185.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_149.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_147.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_113.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_140.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_113.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_182.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_132.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_143.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_185.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_171.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_131.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_116.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_149.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_174.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_188.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_168.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_184.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_197.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_171.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_141.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_177.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_172.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_128.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_142.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_141.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_197.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_141.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_135.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_136.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_172.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_185.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_163.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_139.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_108.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_170.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_176.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_147.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_130.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_179.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_166.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_131.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_157.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_154.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_150.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_104.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_134.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_134.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_180.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_168.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_12.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_16.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_168.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_168.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_151.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_189.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_199.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_112.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_116.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_208.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_131.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_103.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_166.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_131.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_199.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_165.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_185.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_182.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_189.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_111.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_171.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_111.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_168.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_110.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_175.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_179.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_115.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_10.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_123.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_173.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_168.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_154.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_116.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_155.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_118.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_13.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_188.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_140.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_17.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_154.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_183.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_127.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_141.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_187.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_155.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_128.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_18.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_157.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_169.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_100.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_15.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_13.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_169.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_150.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_181.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_109.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_148.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_139.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_182.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_144.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_102.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_112.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_112.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_115.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_170.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_16.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_110.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_108.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_149.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_115.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_103.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_12.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_156.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_180.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_179.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_143.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_130.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_125.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_126.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_113.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_100.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_13.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_181.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_12.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_164.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_191.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_187.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_124.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_157.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_176.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_1.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_154.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_146.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_122.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_155.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_154.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_100.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_195.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_108.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_102.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_115.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_190.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_187.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_104.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_202.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_117.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_101.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_150.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_134.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_190.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_153.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_167.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_161.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_173.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_126.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_105.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_111.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_12.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_151.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_110.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_145.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_185.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_101.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_189.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_162.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_110.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_145.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_156.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_142.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_125.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_119.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_179.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_109.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_192.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_12.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_124.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_179.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_150.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_165.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_117.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_156.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_11.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_170.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_165.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_118.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_15.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_183.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_189.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_10.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_150.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_134.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_138.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_107.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_10.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_124.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_189.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_109.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_105.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_11.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_121.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_125.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_119.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_168.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_188.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_12.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_101.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_146.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_115.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_10.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_180.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_152.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_187.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_128.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_178.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_174.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_123.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_182.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_165.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_104.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_14.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_217.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_129.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_186.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_164.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_107.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_148.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_148.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_110.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_188.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_188.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_134.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_151.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_123.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_122.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_179.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_130.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_174.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_172.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_151.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_17.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_171.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_105.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_100.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_115.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_114.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_183.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_139.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_15.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_156.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bengal/Bengal_116.jpg,Bengal,cat,Bengal,cat_Bengal,1,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_141.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_114.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_110.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_180.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_137.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_179.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Russian/Russian_Blue_137.jpg,Russian_Blue,cat,Russian Blue,cat_Russian,9,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_129.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_116.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_183.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_174.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_179.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_13.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_115.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_151.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_121.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_153.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_12.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_135.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_10.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_164.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Ragdoll/Ragdoll_118.jpg,Ragdoll,cat,Ragdoll,cat_Ragdoll,8,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_12.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_135.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_13.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_13.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_130.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_16.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_japanese/japanese_chin_175.jpg,japanese_chin,dog,japanese chin,dog_japanese,23,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_162.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_132.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_105.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_128.jpg,Persian,cat,Persian,cat_Persian,7,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_107.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_161.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Egyptian/Egyptian_Mau_154.jpg,Egyptian_Mau,cat,Egyptian Mau,cat_Egyptian,5,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_151.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Birman/Birman_109.jpg,Birman,cat,Birman,cat_Birman,2,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_chihuahua/chihuahua_120.jpg,chihuahua,dog,chihuahua,dog_chihuahua,17,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_131.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_basset/basset_hound_167.jpg,basset_hound,dog,basset hound,dog_basset,14,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_189.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_114.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_boxer/boxer_126.jpg,boxer,dog,boxer,dog_boxer,16,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Abyssinian/Abyssinian_18.jpg,Abyssinian,cat,Abyssinian,cat_Abyssinian,0,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_145.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_117.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_beagle/beagle_107.jpg,beagle,dog,beagle,dog_beagle,15,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_194.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_setter_139.jpg,english_setter,dog,english setter,dog_english,19,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_leonberger/leonberger_101.jpg,leonberger,dog,leonberger,dog_leonberger,25,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_newfoundland/newfoundland_13.jpg,newfoundland,dog,newfoundland,dog_newfoundland,27,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Maine/Maine_Coon_163.jpg,Maine_Coon,cat,Maine Coon,cat_Maine,6,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_keeshond/keeshond_127.jpg,keeshond,dog,keeshond,dog_keeshond,24,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_125.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_110.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_133.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_154.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_miniature/miniature_pinscher_163.jpg,miniature_pinscher,dog,miniature pinscher,dog_miniature,26,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Sphynx/Sphynx_126.jpg,Sphynx,cat,Sphynx,cat_Sphynx,11,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_103.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_143.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_yorkshire/yorkshire_terrier_108.jpg,yorkshire_terrier,dog,yorkshire terrier,dog_yorkshire,36,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_141.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pomeranian/pomeranian_178.jpg,pomeranian,dog,pomeranian,dog_pomeranian,28,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_bulldog_134.jpg,american_bulldog,dog,american bulldog,dog_american,12,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_american/american_pit_bull_terrier_166.jpg,american_pit_bull_terrier,dog,american pit bull terrier,dog_american,13,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_13.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_122.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_scottish/scottish_terrier_131.jpg,scottish_terrier,dog,scottish terrier,dog_scottish,32,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_British/British_Shorthair_116.jpg,British_Shorthair,cat,British Shorthair,cat_British,4,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_175.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_english/english_cocker_spaniel_143.jpg,english_cocker_spaniel,dog,english cocker spaniel,dog_english,18,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_10.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_wheaten/wheaten_terrier_103.jpg,wheaten_terrier,dog,wheaten terrier,dog_wheaten,35,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_saint/saint_bernard_132.jpg,saint_bernard,dog,saint bernard,dog_saint,30,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_124.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Siamese/Siamese_143.jpg,Siamese,cat,Siamese,cat_Siamese,10,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_pug/pug_127.jpg,pug,dog,pug,dog_pug,29,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Bombay/Bombay_161.jpg,Bombay,cat,Bombay,cat_Bombay,3,0
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_143.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_great/great_pyrenees_140.jpg,great_pyrenees,dog,great pyrenees,dog_great,21,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_staffordshire/staffordshire_bull_terrier_192.jpg,staffordshire_bull_terrier,dog,staffordshire bull terrier,dog_staffordshire,34,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_samoyed/samoyed_11.jpg,samoyed,dog,samoyed,dog_samoyed,31,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_shiba/shiba_inu_113.jpg,shiba_inu,dog,shiba inu,dog_shiba,33,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_havanese/havanese_173.jpg,havanese,dog,havanese,dog_havanese,22,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/dog_german/german_shorthaired_145.jpg,german_shorthaired,dog,german shorthaired,dog_german,20,1
+/Users/mnfom/Projects/cnn-Makarena-211/petfaces/cat_Persian/Persian_104.jpg,Persian,cat,Persian,cat_Persian,7,0

@@ -29,3 +29,4 @@ PetFaces: http://www.soshnikov.com/permanent/data/petfaces.tar.gz
 Oxford-IIIT Pets: https://www.robots.ox.ac.uk/~vgg/data/pets/
 
 PetFaces — кропы из Oxford-IIIT Pets, CC BY-SA 4.0, копирайт на фото у исходных авторов.
+# При написании работ использовался ИИ.
